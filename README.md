@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://avatars.githubusercontent.com/u/196066569?v=4" alt="ChronoSynapse-logo" width="200"/>
 </p>
 
