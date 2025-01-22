@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/196066569?v=4" alt="ChronoSynapse" width="200"/>
+  <img src="https://avatars.githubusercontent.com/u/196066569?v=4" alt="ChronoSynapse-logo" width="200"/>
 </p>
 
 # ChronoSynapse
