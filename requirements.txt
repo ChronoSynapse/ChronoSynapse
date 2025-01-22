@@ -1,0 +1,14 @@
+# Quantum Computing
+qiskit==0.44.0          # For quantum circuit and quantum computing backend
+
+# TensorFlow (for neural networks)
+tensorflow==2.10.0      # Deep learning framework for neural networks
+
+# Other Python dependencies
+numpy==1.23.5           # For numerical operations
+scipy==1.9.3            # For scientific computing, useful for optimizations and algorithms
+pandas==1.5.0           # For handling datasets and dataframes
+matplotlib==3.6.2       # For visualizing results (e.g., traffic predictions or market data)
+scikit-learn==1.1.3     # For machine learning algorithms and model evaluations
+qiskit-aer==0.10.0      # For simulating quantum circuits locally (Quantum Computing)
+keras==2.10.0           # For higher-level neural network API on top of TensorFlow
