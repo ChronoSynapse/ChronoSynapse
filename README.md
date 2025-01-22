@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/196066569?v=4" alt="ChronoSynapse" width="200"/>
+</p>
+
 # ChronoSynapse
 
 ChronoSynapse is a groundbreaking AI framework that combines **Quantum Computing** with **Neural Networks** to offer real-time, adaptive, and predictive systems. The core of ChronoSynapse is its **Quantum Neuro-Sync (QNS) Architecture**, which integrates quantum circuits and deep learning to process vast amounts of data with unparalleled speed and accuracy. ChronoSynapse offers innovative solutions for industries like **smart cities**, **autonomous vehicles**, **finance**, **healthcare**, and **industrial IoT**.
