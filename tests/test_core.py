@@ -12,3 +12,4 @@ class TestChronoSynapseCore(unittest.TestCase):
         core.initialize_system()
         data = [1, 2, 3]  # Example data
         core.execute(data)
+        
