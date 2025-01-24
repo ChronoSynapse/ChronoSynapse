@@ -8,3 +8,4 @@ class TestQuantumNeuralProcessor(unittest.TestCase):
         data_vector = np.random.rand(4)
         result = qnp.execute(data_vector)
         self.assertEqual(len(result), 16)  # Statevector should have 16 elements
+        
