@@ -20,3 +20,4 @@ class QuantumNeuralProcessor:
         result = execute(qc, self.backend).result()
         statevector = result.get_statevector()
         return statevector
+        
