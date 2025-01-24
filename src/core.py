@@ -14,3 +14,4 @@ class ChronoSynapseCore:
             raise Exception("System not initialized.")
         # Logic to process data and make decisions
         print("Executing prediction and optimization...")
+        
