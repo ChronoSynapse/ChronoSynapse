@@ -21,3 +21,4 @@ class QuantumNeuralProcessor:
         statevector = result.get_statevector()
         return statevector
         
+
