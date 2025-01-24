@@ -16,4 +16,3 @@ class TemporalAwarenessLayer:
         """ Predict the next time step based on the current data """
         prediction = self.model.predict([current_data[-self.time_steps:]])
         return prediction
-        
