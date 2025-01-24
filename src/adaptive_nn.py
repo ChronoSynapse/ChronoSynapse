@@ -23,4 +23,3 @@ def train(model, data, target):
         loss.backward()
         optimizer.step()
     return model
-    

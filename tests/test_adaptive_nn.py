@@ -9,3 +9,4 @@ class TestAdaptiveNN(unittest.TestCase):
         target = torch.randn(100, 1)
         trained_model = train(model, data, target)
         self.assertIsInstance(trained_model, AdaptiveNN)
+        
