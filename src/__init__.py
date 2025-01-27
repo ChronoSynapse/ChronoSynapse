@@ -1,1 +1,1 @@
-# ChronoSynapse™ initialization module
+# ChronoSynapse initialization module
